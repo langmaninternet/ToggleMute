@@ -8,7 +8,7 @@ Hiện tại để bật tắt mic của Teams ta dùng hot key : Ctrl + Shift +
 
 Vì thế mình viết công cụ này nhằm giúp các bạn tối ưu việc bật tắt mic này. Bạn có thể đặt nút bật mic nhanh tùy ý là: F1, F2, F3, F4, .. F12
 
-Link tải: https://github.com/langmaninternet/ToggleMute/archive/refs/tags/1.1.zip
+Link tải: https://github.com/langmaninternet/ToggleMute/archive/refs/tags/1.2.zip
 
 
 Giải nén ra sẽ thấy mã nguồn và ứng dụng build sẵn trong thư mục Build nhé
