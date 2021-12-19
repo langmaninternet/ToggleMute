@@ -12,6 +12,9 @@ Link tải: https://github.com/langmaninternet/ToggleMute/tree/main/Build/
 
 Công cụ mã nguồn mở hoàn toàn nhé.
 
+Ngoài ra mình còn viết 1 công cụ mã nguồn mở để tạo file tập viết chữ cho các bạn bé lớp 1 ở đây nhé: https://github.com/langmaninternet/LuyenChuTieuHoc
+
+
 Screenshot
 ------------
 ![](Build/Screen01.png)
