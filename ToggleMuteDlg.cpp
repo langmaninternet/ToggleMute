@@ -121,7 +121,7 @@ void			LoadConfig(void)
 	}
 	else
 	{
-		appConfig.keyCode = VK_F10;
+		appConfig.keyCode = VK_F9;
 	}
 }
 void			SaveConfig(void)
